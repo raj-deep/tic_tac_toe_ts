@@ -1,6 +1,6 @@
 {
-  "name": "tic_tac_toe_react_ts",
   "homepage": "https://raj-deep.github.io/tic_tac_toe_ts",
+  "name": "tic_tac_toe_react_ts",
   "private": true,
   "version": "0.0.0",
   "type": "module",
